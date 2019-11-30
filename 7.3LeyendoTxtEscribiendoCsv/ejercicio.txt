@@ -1,0 +1,1 @@
+The server install image allows you to install Ubuntu permanently on a computer for use as a server. It will not install a graphical user interface.
